@@ -1,12 +1,12 @@
 # aboutme
-<h1 align="center">👋 Hi, I'm GreenTea</h1>
+<h1 align="center">👋 Hi, I'm KEN TUFA_JUNE</h1>
 
 <p align="center">
-  <img src="https://your-avatar-link.png" width="120" style="border-radius: 20px;" />
+  <img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTUwIiBoZWlnaHQ9IjE1MCIgdmlld0JveD0iMCAwIDE1MCAxNTAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPHJlY3Qgd2lkdGg9IjE1MCIgaGVpZ2h0PSIxNTAiIGZpbGw9IiMwMDAiIHJ4PSIyMCIvPgogIDx0ZXh0IHg9IjUwJSIgeT0iNTAlIiBmaWxsPSIjZmZmIiBmb250LXNpemU9IjIwIiBmb250LWZhbWlseT0ibW9ub3NwYWNlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkb21pbmFudC1iYXNlbGluZT0ibWlkZGxlIj7wn5iAIOKAjOKAjOKAjOKAjOKAjDwvdGV4dD4KPC9zdmc+" width="130"/>
 </p>
 
 <p align="center">
-  <b>ID:</b> #9LU89RPJ9 <br/>
+  <b>ID:</b> #kentufajune <br/>
   <b>Username:</b> GlamorousGreenTea
 </p>
 
