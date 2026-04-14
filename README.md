@@ -34,13 +34,10 @@
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=KentufaJune&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a0f&title_color=ff2233&icon_color=ff2233&text_color=e0e0e0" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=KentufaJune&theme=radical&hide_border=true&background=0a0a0f&stroke=ff2233&ring=ff2233&fire=ff2233&currStreakNum=e0e0e0&sideNums=e0e0e0&currStreakLabel=ff2233&sideLabels=ff2233" />
 </p>
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KentufaJune&layout=compact&theme=radical&hide_border=true&bg_color=0a0a0f&title_color=ff2233&text_color=e0e0e0" />
-</p>
+
 
 ---
 
