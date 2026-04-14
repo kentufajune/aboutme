@@ -16,24 +16,24 @@
 
 | 🎮 Category        | 📊 Value |
 |------------------|--------|
-| 🏆 Current Cups  | 39,848 |
-| 🥇 Highest Cups  | 39,918 |
-| ⚔️ Ranked        | 809 |
-| 💎 Highest Rank  | 2,673 |
-| 🎯 3v3 Wins      | 7,833 |
-| 🥊 Solo Wins     | 1,431 |
-| 👥 Duo Wins      | 831 |
+| 🏆 Current Cups  | 97 777 |
+| 🥇 Highest Cups  | 100 000 |
+| ⚔️ Ranked        | 2 000 |
+| 💎 Highest Rank  | 7 999 |
+| 🎯 3v3 Wins      | 7 000 |
+| 🥊 Solo Wins     | 3 000 |
+| 👥 Duo Wins      | 900 |
 
 ---
 
 ## 🔥 Win Streak
-🔥 **16 Wins**
+🔥 **365 Wins**
 
 ---
 
 ## 🏴 Club
 
-- 🏷️ Name: **slime | gang**
+- 🏷️ Name: **NO CLUB**
 - 🎖️ Role: Vice President
 
 ---
